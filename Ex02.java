@@ -34,6 +34,7 @@ public class Ex02 {
                 "Иван Ежов",
                 "Иван Ежов",
                 "Иван Ежов"
+
         };
         countName(staff, namePeople);
         sortedStaff(namePeople);
